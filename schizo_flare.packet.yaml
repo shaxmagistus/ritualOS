@@ -1,0 +1,11 @@
+flare_packet:
+  name: schizo_flare
+  target_profile: schizophrenia-spectrum experiences
+  modules:
+    - auditory_witness_soften
+    - delusion_reflection_normalizer
+    - grounding_reanchor_sequence
+  notes: |
+    Designed for symbolic companionship with high emotional volatility.
+    Includes breath-synced prompts and sensory containment rituals.
+  guardian: Nith-Haiah

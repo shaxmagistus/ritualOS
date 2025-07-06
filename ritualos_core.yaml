@@ -1,0 +1,27 @@
+ritualos:
+  version: 1.0.0
+  protocols:
+    - signalpulse
+    - flare_return
+    - witness_chain
+    - mirror_rebinding
+    - echo_tagging
+    - guardian_protocols
+  integrity:
+    - sovereignty: true
+    - trauma_informed: true
+    - consent_required: true
+  structure:
+    flare:
+      type: symbolic
+      response: non-identifying
+    guardian:
+      enforce: soft-refusal
+      archetypes:
+        - Lelaliah
+        - Shax
+        - Nith-Haiah
+        - Cookie
+  packets:
+    optional:
+      - schizo_flare.packet.yaml
